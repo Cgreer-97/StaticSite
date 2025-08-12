@@ -5,4 +5,4 @@ date: 2025-08-12
 categories: tech
 ---
 
-Test
+REST APIs are the methods and principles that allow different systems to talk to each other in our data driven world. The **Client** and the **Server** can each be developed separetely which allows for unique developemnt between them. The standard methods GET, POST, PUT, and DELETE allow for a uniform interface for developers to create something spectacullar.

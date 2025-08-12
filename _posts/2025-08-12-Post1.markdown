@@ -5,4 +5,8 @@ date: 2025-08-12
 categories: tech
 ---
 
-Test
+Linking together APIs is an essential part of the current web development world. The amount of functionality it brings to the scene makes our world seem simple even if its lines and lines of code in the backend.
+
+## Example
+
+A great example of linking APIs into an app is actually your standard weather app. Linking a weather and maps API allows uses to pinpoint their location with the data provided.
