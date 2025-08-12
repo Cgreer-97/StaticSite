@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Time Management"
+date: 2025-08-12
+categories: personal
+---
+
+test
