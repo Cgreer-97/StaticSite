@@ -1,0 +1,14 @@
+---
+layout: post
+title: "APIs Practice"
+date: 2025-08-18
+categories: tech
+---
+
+![API_Image](/images/api_flow.png)
+![Swagger Site](https://swagger.io/resources/articles/best-practices-in-api-design/)
+
+--
+For this week's exercise I wanted to highlight _Swagger's_ article about the best practices for API Design. They cover quite a bit of of practices that we have discussed in previous courses, but they also give great tips about working with other developers.
+
+By this I mean, how code reads to other developers. While certain code blocks make sense to you, it needs to be as coder friendly as possible. On the site, mentioning url Bases, they talk about how keeping your nouns as self explanatory as possibles helps create a quick and easy system to plug into. They also talked about giving feedback for proper API use. They have three examples but they are all error based code so other devs can quickly find out what went wrong. This would be a big help for future devs working based off your back end systems, and quickly fix problems for the overall team.
