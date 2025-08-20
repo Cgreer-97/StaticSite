@@ -1,0 +1,76 @@
+/* General Page Styles */
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.7;
+  background: #fafafa;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+/* Post Container */
+.post {
+  max-width: 750px;
+  margin: 3rem auto;
+  padding: 2rem;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+/* Post Title */
+.post h1 {
+  font-size: 2.2rem;
+  margin-bottom: 1rem;
+  color: #222;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 0.5rem;
+}
+
+/* Post Content */
+.post .content p {
+  margin-bottom: 1.2rem;
+}
+
+.post .content h2 {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: #444;
+}
+
+.post .content a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.post .content a:hover {
+  text-decoration: underline;
+}
+
+/* Lists */
+.post .content ul,
+.post .content ol {
+  margin: 1rem 0 1.5rem 2rem;
+}
+
+.post .content li {
+  margin-bottom: 0.5rem;
+}
+
+/* Blockquote */
+.post blockquote {
+  border-left: 4px solid #ddd;
+  padding-left: 1rem;
+  font-style: italic;
+  color: #555;
+  margin: 1.5rem 0;
+}
+
+/* Images */
+.post img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+  margin: 1.5rem 0;
+}
